@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 I am currently a Master student at the [Swiss Federal Institute of Technology Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. Prior to that, I obtained my B.Eng. from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China.
 
 ### How to Reach Me
-- admin@rm2.net
-- pian.wan@epfl.ch
+- admin AT rm2.net
+- pian.wan AT epfl.ch
