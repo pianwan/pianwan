@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### About Me
-I am currently a Master student at the [Swiss Federal Institute of Technology Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. Prior to that, I obtained my B.Eng. from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China.
+I am an incoming on-campus MSCS student at Georgia Tech. Prior to that, I spent a year studying as a Master Student at [Swiss Federal Institute of Technology Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. I obtained my B.Eng. from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China.
+
+I am actively seeking internship/co-op/full-time Software Engineer/Machine Learning Engineer opportunities in the USA.
 
 ### How to Reach Me
 - admin AT rm2.net
