@@ -1,28 +1,21 @@
 ### Hi there 👋
 
-<!--
-**pianwan/pianwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a first-year MSCS student at [Georgia Tech](https://www.gatech.edu/), focusing on the development of highly reliable systems for large-scale machine learning pipelines and data platforms. Previously, I worked at [WeChat Tencent](https://www.wechat.com/), focusing on backend development for recommendation systems in WeChat Channels short videos. I also interned as a Software Engineer at [Alibaba Group](https://www.alibabagroup.com/en-US), where I contributed to building robust data platforms for enterprise-level data processing. 
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-### About Me
-<!--
- I am an incoming on-campus MSCS student at Georgia Tech. 
-Prior to that,  -->
-I spent a year studying as a Master Student at [Swiss Federal Institute of Technology Lausanne (EPFL)](https://www.epfl.ch/en/), Switzerland. I obtained my B.Eng. from [University of Electronic Science and Technology of China (UESTC)](https://en.uestc.edu.cn/), Chengdu, China.
-<!--
-I am actively seeking internship/co-op/full-time Software Engineer/Machine Learning Engineer opportunities in the USA.
- -->
-### How to Reach Me
-- admin AT rm2.net
-- pian.wan AT epfl.ch
+My interests also extend to Machine Learning, Computer Vision, Computer Graphics, and Video Game Development. I have a publication on 3D reconstruction in ECCV 2024.
+
+
+
+I am currently seeking SDE/MLE internship or co-op opportunities in the United States.
+
+
+
+📬 Email: pianwan@gatech.edu 
+
+
+
+🌏🌎🌍 I have traveled to 🇨🇳🇯🇵🇰🇷🇨🇭🇺🇸🇫🇷🇪🇬🇦🇪...
+
+🏫📚💻 I have studied at [Georgia Tech](https://www.gatech.edu/), [EPFL](https://www.epfl.ch/en/) & [UESTC](https://en.uestc.edu.cn/).
