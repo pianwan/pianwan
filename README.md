@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a first-year MSCS student at [Georgia Tech](https://www.gatech.edu/), focusing on the development of highly reliable systems for large-scale machine learning pipelines and data platforms. Previously, I worked at [WeChat Tencent](https://www.wechat.com/), focusing on backend development for recommendation systems in WeChat Channels short videos. I also interned as a Software Engineer at [Alibaba Group](https://www.alibabagroup.com/en-US), where I contributed to building robust data platforms for enterprise-level data processing. 
+I'm a first-year MS in Computer Science student at [Georgia Tech](https://www.gatech.edu/), focusing on the development of highly reliable systems for large-scale machine learning pipelines and data platforms. Previously, I worked at [WeChat Tencent](https://www.wechat.com/) as a Software Engineer, developing recommendation systems backend for WeChat Channels short videos. I also interned at [Alibaba Group](https://www.alibabagroup.com/en-US), where I contributed to building robust data platforms for enterprise-level data processing. 
 
 
 
