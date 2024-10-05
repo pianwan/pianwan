@@ -4,7 +4,7 @@ I'm a first-year MS in Computer Science student at [Georgia Tech](https://www.ga
 
 
 
-My interests also extend to Machine Learning, Computer Vision, Computer Graphics, and Video Game Development. I have a publication on 3D reconstruction in ECCV 2024.
+My interests also extend to Machine Learning, Computer Vision, Computer Graphics, and Video Game Development. I have a publication on 3D reconstruction in ECCV 2024 [HERE](https://arxiv.org/pdf/2407.02174v2).
 
 
 
