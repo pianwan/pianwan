@@ -21,3 +21,5 @@ I am currently seeking SDE/MLE internship or co-op opportunities in the United S
 🏫📚💻 I have studied at [Georgia Tech](https://www.gatech.edu/), [EPFL](https://www.epfl.ch/en/) & [UESTC](https://en.uestc.edu.cn/).
 
 Having studied at the world's leading science and technology institutes in the United States, Europe, and China, I have a broad perspective that helps me approach problems and work with people from different backgrounds. These experiences have made me adaptable, open to new ideas, and better at communicating with others.
+
+![](https://komarev.com/ghpvc/?username=pianwan&style=flat) [![GitHub followers](https://img.shields.io/github/followers/pianwan.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/pianwan?tab=followers)
