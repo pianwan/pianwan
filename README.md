@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a first-year MS in Computer Science student at [Georgia Tech](https://www.gatech.edu/), focusing on the development of highly reliable systems for large-scale machine learning pipelines and data platforms. Previously, I worked at [WeChat Tencent](https://www.wechat.com/) as a Software Engineer, developing recommendation system engine for WeChat Channels short videos. I also interned at [Alibaba Group](https://www.alibabagroup.com/en-US), where I contributed to building robust data processing backend. 
+I'm a first-year MS in Computer Science student at [Georgia Tech](https://www.gatech.edu/), focusing on the development of highly reliable systems for large-scale machine learning pipelines and data platforms. Previously, I worked at [WeChat Tencent](https://www.wechat.com/) as a Software Engineer Intern, developing recommendation system engine for WeChat Channels short videos. I also interned at [Alibaba Group](https://www.alibabagroup.com/en-US), where I contributed to building robust data processing backend. 
 
-I will join [Amazon Web Services](https://aws.com/) for my 2025 summer internship.
+I will join [Amazon Web Services](https://aws.com/) for my 2025 summer internship and [Bytedance](https://www.bytedance.com/) for my fall internship.
 
 My research focus on 3D Computer Vision, Machine Learning and Robotics. For publications, click [Google Scholar](https://scholar.google.com/citations?user=O2EzHBQAAAAJ&hl=en) and [ORCID](https://orcid.org/0009-0007-9368-3662).
 
