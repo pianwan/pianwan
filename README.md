@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-I'm a first-year MS in Computer Science student at [Georgia Tech](https://www.gatech.edu/), focusing on the development of highly reliable systems for large-scale machine learning pipelines and data platforms. Previously, I worked at [WeChat Tencent](https://www.wechat.com/) as a Software Engineer Intern, developing recommendation system engine for WeChat Channels short videos. I also interned at [Alibaba Group](https://www.alibabagroup.com/en-US), where I contributed to building robust data processing backend. 
+I'm currently an MS in Computer Science student at [Georgia Tech](https://www.gatech.edu/). Before moving to the United States, I gained industry experience through internships at leading tech company in China. At [WeChat Tencent](https://www.wechat.com/), I worked as a Software Engineer Intern on the recommendation system backend for WeChat Channels short videos. I also interned at [Alibaba Group](https://www.alibabagroup.com/en-US), where I contributed to building robust data processing backend. In the USA, I worked as an SDE Intern at [Amazon Web Services](https://aws.com/), focusing on automated OS security patching. Additionally, I worked at [Bytedance](https://www.bytedance.com/) global CDN team.
 
-I will join [Amazon Web Services](https://aws.com/) for my 2025 summer internship and [Bytedance](https://www.bytedance.com/) for my fall internship.
-
-My research focus on 3D Computer Vision, Machine Learning and Robotics. For publications, click [Google Scholar](https://scholar.google.com/citations?user=O2EzHBQAAAAJ&hl=en) and [ORCID](https://orcid.org/0009-0007-9368-3662).
+In academia, my research focus on 3D Computer Vision, Machine Learning and Robotics. For publications, click [Google Scholar](https://scholar.google.com/citations?user=O2EzHBQAAAAJ) and [ORCID](https://orcid.org/0009-0007-9368-3662).
 
 I am currently seeking entry-level Software Development Engineer/Machine Learning Engineer positions in the USA.
 
 📬 Email: pianwan@gatech.edu admin@rm2.net
 
-🌏🌎🌍 ✈️ 🇨🇳🇯🇵🇰🇷🇨🇭🇺🇸🇫🇷🇪🇬🇦🇪... (traveling around the world with you all)
+🌏🌎🌍 ✈️ 🇨🇳🇯🇵🇰🇷🇨🇭🇺🇸🇫🇷🇪🇬🇦🇪...
 
 🏫📚💻 [Georgia Tech](https://www.gatech.edu/), [EPFL](https://www.epfl.ch/en/) & [UESTC](https://en.uestc.edu.cn/).
 
