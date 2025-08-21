@@ -5,10 +5,10 @@ I'm currently an MS in Computer Science student at [Georgia Tech](https://www.ga
 I am currently seeking entry-level Software Development Engineer/Machine Learning Engineer positions in the USA.
 
 💼 Ex/current workplaces
-- [TikTok (ByteDance)](https://www.tiktok.com/), Software Engineer Intern, TikTok Global CDN
-- [Amazon Web Services](https://aws.com/), Software Development Egnineer Intern, AWS buildertools team
-- [Alibaba Group](https://www.alibabagroup.com/en-US), Software Engineer Intern, DingTalk SaaS service
-- [WeChat (Tencent)](https://www.wechat.com/), Software Engineer Intern, WeChat Channels recommendation system
+- [TikTok (ByteDance)](https://www.tiktok.com/), Software Engineer Intern, TikTok Global CDN, Bellevue, WA
+- [Amazon Web Services](https://aws.com/), Software Development Egnineer Intern, AWS buildertools team, Seattle, WA
+- [Alibaba Group](https://www.alibabagroup.com/en-US), Software Engineer Intern, DingTalk SaaS service, Hangzhou, China
+- [WeChat (Tencent)](https://www.wechat.com/), Software Engineer Intern, WeChat Channels recommendation system, Guangzhou, China
 
 📬 Email: pianwan@gatech.edu admin@rm2.net
 
