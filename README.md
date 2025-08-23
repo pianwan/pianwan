@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently an MS in Computer Science student at [Georgia Tech](https://www.gatech.edu/).In academia, my research focus on 3D Computer Vision, Machine Learning and Robotics. For publications, click [Google Scholar](https://scholar.google.com/citations?user=O2EzHBQAAAAJ) and [ORCID](https://orcid.org/0009-0007-9368-3662).
+I'm currently an MS in Computer Science student at [Georgia Tech](https://www.gatech.edu/). In academia, my research focus on 3D Computer Vision, Machine Learning and Robotics. For publications, click [Google Scholar](https://scholar.google.com/citations?user=O2EzHBQAAAAJ) and [ORCID](https://orcid.org/0009-0007-9368-3662).
 
 I am currently seeking entry-level Software Development Engineer/Machine Learning Engineer positions in the USA.
 
